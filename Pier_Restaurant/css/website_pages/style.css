@@ -226,7 +226,7 @@ section {
     3. HOME
 */
 #hero {
-  background-image: url(/images/hero-home-2.jpeg);
+  background-image: url(/Pier_Restaurant/images/hero-home-2.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -262,11 +262,11 @@ section {
   }
 }
 .owner-img {
-  background-image: url(/images/owner.jpeg);
+  background-image: url(/Pier_Restaurant/images/owner.jpeg);
 }
 
 .location-img {
-  background-image: url(/images/location-2.jpeg);
+  background-image: url(/Pier_Restaurant/images/location-2.jpeg);
 }
 
 .lg-section {
